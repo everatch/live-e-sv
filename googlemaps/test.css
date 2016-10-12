@@ -1,0 +1,84 @@
+@charset "utf-8;
+
+
+/* --- 全体の背景・テキスト --- */
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff; /* ページの背景色 */
+	color: #000000; /* 全体の文字色 */
+	font-size: 100%; /* 全体の文字サイズ */
+}
+
+/* --- 全体のリンクテキスト --- */
+a:link { color: #0000ff; }
+a:visited { color: #800080; }
+a:hover { color: #ff0000; }
+a:active { color: #ff0000; }
+
+/* --- コンテナ --- */
+#container {
+	width: 96%; /* ページの幅 */
+	margin: 0 auto; /* センタリング */
+	background: url(../image/sidebar_180.gif) repeat-y left; /* 左サイドバーの背景画像 */
+	background-color: #ffffff; /* メインカラムの背景色 */
+	border-left: 1px #c0c0c0 solid; /* 左の境界線 */
+	border-right: 1px #c0c0c0 solid; /* 右の境界線 */
+}
+#containerInner {
+	width: 100%;
+	background: url(../image/sidebar_180.gif) repeat-y right; /* 右サイドバーの背景画像 */
+}
+
+/* --- ヘッダ --- */
+#header {
+	padding: 20px 0 40px 0;
+	background-color: #ffe080; /* ヘッダの背景色 */
+}
+
+/* --- メニュー --- */
+#menu{
+	padding: 20px 0 40px 0;
+	background-color: #abcdef; /* ヘッダの背景色 */
+}
+
+/* --- 左サイド --- */
+#nav {
+	float: left;
+	width: 180px; /* 左サイドバーの幅 */
+	margin-right: -180px; /* 左サイドバーの幅に合わせる（マイナス値） */
+	padding: 20px 0 40px 0;
+	position: relative;
+	z-index: 2;
+}
+
+/* --- メインカラム --- */
+#content {
+	float: left;
+	width: 100%;
+	margin-right: -180px; /* 右サイドバーの幅に合わせる（マイナス値） */
+	position: relative;
+	z-index: 1;
+}
+#contentInner {
+	margin-left: 180px; /* 左サイドバーの幅に合わせる */
+	margin-right: 180px; /* 右サイドバーの幅に合わせる */
+	padding: 20px 0 450px 0;
+}
+
+/* --- 右サイド --- */
+#aside {
+	float: left;
+	width: 180px; /* 右サイドバーの幅 */
+	padding: 20px 0 40px 0;
+	position: relative;
+	z-index: 3;
+}
+
+/* --- フッタ --- */
+#footer {
+	clear: left; /* フロートのクリア */
+	width: 100%;
+	padding: 20px 0 40px 0;
+	background-color: #ffe080; /* フッタの背景色 */
+}

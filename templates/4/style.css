@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*============================================
+*style
+============================================*/ 
+body {
+	background-color: rgb(0,0,0) !important; /* ページの背景色 */
+	background-image: url("img/back.png") !important; 
+}
+
+/*============================================
+header
+============================================*/
+
+#logo_img {
+/*	background-image:url("../img/logo.png") !important; */
+	}
+	
+#bar_ {
+	background-color: rgb(255,209,67) !important;
+	}
+
+/*============================================
+clock
+============================================*/
+#clock_date {	
+	background:rgb(255,255,255) !important;
+	color: rgb(98,98,98) !important;	
+	}
+	
+#clock_time {
+	background:rgb(255,255,255) !important;
+    color: rgb(98,98,98) !important;
+	}
+
+
+/*============================================
+content
+============================================*/
+
+#content_top {
+	background: rgb(255,209,67) !important;
+}
+
+#content_gomap {
+	background: rgb(255,209,67) !important;
+}
+#content_graph {
+	background: rgb(255,209,67) !important;
+}
+#content_about {
+	background: rgb(255,209,67) !important;
+}
+h2 {
+	color:rgb(98,98,98) !important;
+	}
+#content_developers {
+	background: rgb(255,209,67) !important;
+}
+
+/*============================================
+senser
+============================================*/
+
+#sensor{
+	background:rgb(255,255,255) !important;
+	}
+	
+h1  {
+	background-color:rgb(98,98,98) !important;
+	}
+	
+ul {
+	color:rgb(98,98,98) !important;
+	}
+
+data {
+	color:rgb(98,98,98) !important;
+	}
+
+.radius{
+	border:solid 10px rgb(255,209,67) !important;
+}

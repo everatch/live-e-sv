@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>無題ドキュメント</title>
+</head>
+
+<body><!--
+<script charset="utf-8" src="http://192.168.11.2/live_e/developers/api/data_show_.js"></script>
+<script src="http://localhost/live_e/developers/api/xml_get.php?get=true2copy&id=test"></script>
+-->
+<script charset="utf-8" src="http://www.live-e-sv.info/developers/api/data_show.js"></script>
+<script src="http://www.live-e-sv.info/developers/api/xml_get.php?get=true2copy&id=test"></script>
+
+<script>
+new sv_showForm(
+	"http://www.live-e-sv.info/developers/api/",/*path(data.xml)*/
+	"test",/*sensor id*/
+	20,/*number of data(3~24)*/
+	250,/*width(235-300)*/
+	485,/*height(300-800)*/
+	"rgba(176,200,252,0.5)"/*back color 1*/,
+	"rgba(176,200,252,0.8)"/*back color 2*/
+	//"rgba(176,252,252,0.5)"164,252,75/*back color 2*/
+);
+</script>
+
+
+</body>
+</html>

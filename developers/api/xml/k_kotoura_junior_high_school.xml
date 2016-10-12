@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<sensors>
+	　<sensor>
+		<time>2012-10-01 11:30:40</time>
+	　　<temp>24.7</temp>
+	　　<humi>75.4</humi>
+	　　<pres>1011.4</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>346</winddir>
+	　　<windspe>0.8</windspe>
+	　</sensor>
+	　<sensor>
+		<time>2012-10-01 11:28:27</time>
+	　　<temp>24.7</temp>
+	　　<humi>75.4</humi>
+	　　<pres>1011.4</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>346</winddir>
+	　　<windspe>0.8</windspe>
+	　</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	<sensor>
+		<time>0000-00-00 00:00:00</time>
+	　　<temp>---</temp>
+	　　<humi>---</humi>
+	　　<pres>---</pres>
+	　　<rainfall>---</rainfall>
+	　　<winddir>---</winddir>
+	　　<windspe>---</windspe>
+	</sensor>
+	</sensors>

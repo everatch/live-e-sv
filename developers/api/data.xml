@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<test>
+　<sensor>
+	<time>2012-09-29 00:00:00</time>
+　　<temp>29</temp>
+　　<humi>59</humi>
+　　<pres>1019</pres>
+　　<rainfall>9</rainfall>
+　　<winddir>209</winddir>
+　　<windspe>9</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-28 00:00:00</time>
+　　<temp>28</temp>
+　　<humi>58</humi>
+　　<pres>1018</pres>
+　　<rainfall>8</rainfall>
+　　<winddir>208</winddir>
+　　<windspe>8</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-27 00:00:00</time>
+　　<temp>27</temp>
+　　<humi>57</humi>
+　　<pres>1017</pres>
+　　<rainfall>7</rainfall>
+　　<winddir>207</winddir>
+　　<windspe>7</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-29 00:00:00</time>
+　　<temp>29</temp>
+　　<humi>59</humi>
+　　<pres>1019</pres>
+　　<rainfall>9</rainfall>
+　　<winddir>209</winddir>
+　　<windspe>9</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-28 00:00:00</time>
+　　<temp>28</temp>
+　　<humi>58</humi>
+　　<pres>1018</pres>
+　　<rainfall>8</rainfall>
+　　<winddir>208</winddir>
+　　<windspe>8</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-27 00:00:00</time>
+　　<temp>27</temp>
+　　<humi>57</humi>
+　　<pres>1017</pres>
+　　<rainfall>7</rainfall>
+　　<winddir>207</winddir>
+　　<windspe>7</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-29 00:00:00</time>
+　　<temp>29</temp>
+　　<humi>59</humi>
+　　<pres>1019</pres>
+　　<rainfall>9</rainfall>
+　　<winddir>209</winddir>
+　　<windspe>9</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-28 00:00:00</time>
+　　<temp>28</temp>
+　　<humi>58</humi>
+　　<pres>1018</pres>
+　　<rainfall>8</rainfall>
+　　<winddir>208</winddir>
+　　<windspe>8</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-27 00:00:00</time>
+　　<temp>27</temp>
+　　<humi>57</humi>
+　　<pres>1017</pres>
+　　<rainfall>7</rainfall>
+　　<winddir>207</winddir>
+　　<windspe>7</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-29 00:00:00</time>
+　　<temp>29</temp>
+　　<humi>59</humi>
+　　<pres>1019</pres>
+　　<rainfall>9</rainfall>
+　　<winddir>209</winddir>
+　　<windspe>9</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-28 00:00:00</time>
+　　<temp>28</temp>
+　　<humi>58</humi>
+　　<pres>1018</pres>
+　　<rainfall>8</rainfall>
+　　<winddir>208</winddir>
+　　<windspe>8</windspe>
+　</sensor>
+　<sensor>
+	<time>2012-09-27 00:00:00</time>
+　　<temp>27</temp>
+　　<humi>57</humi>
+　　<pres>1017</pres>
+　　<rainfall>7</rainfall>
+　　<winddir>207</winddir>
+　　<windspe>7</windspe>
+　</sensor>
+</test>

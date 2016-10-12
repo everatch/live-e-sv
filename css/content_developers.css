@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*============================================
+input form
+============================================*/
+td{
+	text-align:left;	
+}
+#api_select {
+	height:35px;
+	background-color:rgba(0,0,0,0.7);
+	border-color:#00FF55;
+}
+#selectform_2 tr{
+	height:30px;
+}

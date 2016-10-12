@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*============================================
+graph
+============================================*/
+html,body { height:100%; width:100%; }
+
+#inform {
+	position:relative;
+	top:70px;
+	left:100px;
+	padding:50px;
+	width:455px;
+	/*height:450px;*/
+	background-color:rgb(255,255,255);
+	text-align:center;
+	box-shadow:0 0 30px #000000;
+}
+#graph_back {
+	width:755px;
+	height: auto;
+	background-color:rgb(255,255,255);
+	text-align:center;
+	overflow:hidden;
+}
+#chart_div {
+	position:relative;
+	top:-20px;
+	left:-70px;
+	background-color:rgba(255,255,255,0);
+}
+#timesform {
+	position:relative;
+	/*left:100px;*/
+	padding:50px;
+	/*width:455px;*/
+	/*height:450px;*/
+	background-color:rgb(255,255,255);
+	text-align:center;
+}
+#add_series_ground {
+	position: absolute;
+	top:0px;
+	left:0px;
+	height:100%;
+	width:100%;
+	background-color:rgba(0,0,0,0.7);
+}
+#add_series {
+	position: relative;
+	top:100px;
+	left:100px;
+	height:135px;
+	width:570px;
+	background-color:#FFFFFF;
+	padding:35px 0px;
+	text-align:center;
+	box-shadow:0 0 30px #000000;
+}
+#add_buttom {
+	position: relative;
+	right:10px;
+	bottom:25px;
+}

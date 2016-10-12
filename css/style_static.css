@@ -1,0 +1,236 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*============================================
+*style
+============================================*/
+* {
+	margin: 0; padding:0; 	/*全要素のマージン・パディングをリセット*/
+} 
+body {
+	color: #000000; /* 全体の文字色 */
+	font-size: 100%; /* 全体の文字サイズ */
+	background-color: rgb(225,225,225);	/*ページ全体の背景色*/
+	text-align:center;		/*IE6以下でセンタリングするための対策*/
+}
+
+a {
+	text-decoration:none;
+}
+
+/*============================================
+header
+============================================*/
+#bar {
+	width:950px;
+	height:20px;
+	margin:0 auto;
+}
+#bar_ {
+	width:auto;
+	height:20px;
+}
+#bar_style {
+	float:right;
+	width:auto;
+	height:18px;
+	text-align:right;
+	font-size:12px;
+	padding:3px 0px 0px 0px;
+	margin:0 auto;
+}
+#style_menu {
+	display:none;
+	width:100%;
+	height:auto;
+	position:relative;
+	z-index:999;
+	top:3px;
+	background-color:rgb(100,100,100);
+	background-color:rgba(0,0,0,0.5);
+	padding:0px 0px;
+	text-align:center;
+	font-family: Verdana, Geneva, sans-serif !important;
+}
+#defult{
+	color:rgb(235,235,235);
+}
+#bar_lang {
+	float:right;
+	width:auto;
+	height:18px;
+	text-align:right;
+	font-size:12px;
+	padding:3px 0px 0px 0px;
+	margin:0 auto;
+}
+#lang_menu {
+	display:none;
+	width:100%;
+	height:auto;
+	position:relative;
+	z-index:999;
+	top:3px;
+	background-color:rgb(100,100,100);
+	background-color:rgba(0,0,0,0.5);
+	padding:5px 0px;
+	text-align:center;
+}
+.lang_button {
+	width:100%;
+	font-size:14px;
+	position:relative;
+	z-index:999;
+	padding:10px 0px;
+	margin:0 auto;
+}
+
+#header {
+	z-index:100;
+	height:110px;
+	margin:0 auto;
+}
+#logo {
+	z-index:100;
+	position: absolute;
+	background:rgb(250,250,250);
+	background:rgba(255,255,255,0.85);
+	width:100%;
+	height:110px;
+}
+#logo_img {
+	width:479px;
+	height:70px;
+	z-index:101;
+	position: relative;	
+	top: 15px;
+	background-repeat: no-repeat;
+	margin:0 auto;
+	text-align:left;
+}
+#logo_text {
+	position:relative;
+	top:65px;
+	text-align:center;
+	color:rgb(160,160,164);
+	font-family: Verdana, Geneva, sans-serif !important;
+}
+#l_menu {
+	z-index:101;
+	position:relative;
+	margin:0 auto;
+	left:-375px;
+	background: rgb(250,250,250);
+	background: rgba(255,255,255,0.8);
+	width:150px;
+	height:900px;
+}
+/*============================================
+l_menu
+============================================*/
+#main_menu {
+	width:150px;
+	padding:50px 0px;
+}
+#livee {
+	top:5px;
+	left:30px;
+	position:relative;
+	width:90px;
+	height:90px;
+	background-image:url("../img/livee.png");
+	background-repeat: no-repeat;
+}
+.menu_button {
+	width:150px;
+	padding:10px 0px;
+	margin:20px 0px;
+	font-size:20px;
+	font-weight: bold;
+	color:rgb(92,92,92);
+	text-shadow: 0 0 2px rgb(92,92,92);
+}
+.click {
+	background:rgba(0,0,0,0.3);
+	color:rgb(235,235,235);
+	text-Shadow: 0 0 2px rgb(235,235,235);
+}
+/*============================================
+content
+============================================*/
+
+#content {
+	z-index:9;
+	position: relative;
+    width:950px;
+	height:800px;
+	margin:0 auto;
+}
+#content_top {
+	position: absolute;
+    width:755px;
+	height:777px;
+	left:175px;
+	background: rgb(180,180,180);
+	background: rgba(0,0,0,0.22);
+	padding: 10px;
+}
+
+#content_gomap {
+	position: absolute;
+	height:777px;
+    width:755px;
+	left:175px;
+	background: rgb(180,180,180);
+	background: rgba(0,0,0,0.22);
+	padding: 10px;
+}
+#content_graph {
+	position: absolute;
+	height:777px;
+    width:755px;
+	left:175px;
+	background: rgb(180,180,180);
+	background: rgba(0,0,0,0.22);
+	padding: 10px;
+}
+#content_about {
+	position: absolute;
+	height:777px;
+    width:755px;
+	left:175px;
+	background: rgb(180,180,180);
+	background: rgba(0,0,0,0.22);
+	padding: 10px;
+}
+#content_developers {
+	position: absolute;
+	height:777px;
+    width:755px;
+	left:175px;
+	background: rgb(180,180,180);
+	background: rgba(0,0,0,0.22);
+	padding: 10px;
+}
+/*============================================
+footer
+============================================*/
+
+#footer {
+	height:18px;
+    width:950px;
+	margin:0 auto;
+	font-size: 10.5pt;
+	color:#2A1F55;
+	font-family: Verdana, Geneva, sans-serif !important;
+}
+
+.fontf {
+	font-family: Verdana, Geneva, sans-serif !important;
+}
+
+.radius {
+	border-radius:0.3em;
+	border:solid 10px rgb(120,120,120);
+	border:solid 10px rgba(0,0,0,0.5);
+}

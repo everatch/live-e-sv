@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*============================================
+*style
+============================================*/ 
+body {
+	background-image: url("img/back.png") !important; 
+}
+
+/*============================================
+clock
+============================================*/
+#clock_date {	
+	background:rgb(255,255,255) !important;
+	color: rgb(98,98,98) !important;	
+	}
+	
+#clock_time {
+	background:rgb(255,255,255) !important;
+    color: rgb(98,98,98) !important;
+	}
+
+/*============================================
+content
+============================================*/
+
+#content_top {
+	background: rgb(153,153,153) !important;
+}
+
+#content_gomap {
+	background: rgb(153,153,153) !important;
+}
+#content_graph {
+	background: rgb(153,153,153) !important;
+}
+#content_about {
+	background: rgb(153,153,153) !important;
+}
+h2 {
+	color:rgb(98,98,98) !important;
+	}
+#content_developers {
+	background: rgb(153,153,153) !important;
+}
+
+/*============================================
+senser
+============================================*/
+#sensor{
+	background:rgb(255,255,255) !important;
+	}
+
+h1  {
+	background-color:rgb(98,98,98) !important;
+	}
+	
+ul {
+	color:rgb(98,98,98) !important;
+	}
+
+data {
+	color:rgb(98,98,98) !important;
+	}
+	
+.radius{
+	border:solid 10px rgb(153,153,153) !important;
+}
